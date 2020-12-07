@@ -3,24 +3,24 @@
     padding: 0;
 }
 
-.page-2 {
+.page-secondary {
     width: 80%;
     margin: auto;
     text-align: center;
     margin-top: 300px;
 }
 
-.big-s {
+.big-text {
     color: silver;
     font-size: 5rem;
 }
 
-.you {
+p {
     font-size: 3rem;
     color: rgb(104, 102, 102);
 }
 
-.i-th {
+.i-check {
     width: 80%;
     margin: auto;
     text-align: center;
